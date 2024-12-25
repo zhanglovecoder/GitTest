@@ -6,5 +6,5 @@ def test_web():
     time.sleep(2)
     print("test run")
     print("test run")
-    print("test run")
+    print("Auto build")
     driver.quit()
