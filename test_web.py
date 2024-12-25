@@ -5,4 +5,6 @@ def test_web():
     driver = get('http://www.baidu.com/')
     time.sleep(2)
     print("test run")
+    print("test run")
+    print("test run")
     driver.quit()
